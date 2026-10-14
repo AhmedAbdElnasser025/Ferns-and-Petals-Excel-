@@ -8,18 +8,18 @@ The analysis focuses on e-commerce data and answers key business questions such 
 
 # 📊 Key Features
 - Data cleaning and transformation using Power Query
- -- Creating new calculated columns such as:
- -- Revenue = Price × Quantity
+ - Creating new calculated columns such as:
+ - Revenue = Price × Quantity
 - Delivery Days = Delivery_Date - Order_Date
 - Time-based analysis (Month, Hour)
 - Data modeling with relationships between tables
 - Visual analysis using Pivot Tables, Charts, and Slicers
 - Business KPIs such as:
- -- Total Revenue
- -- Avg. Delivery Time
- -- Top Products by Sales
- -- Sales Trends by Month
- -- Customer Spending Patterns
+ - Total Revenue
+ - Avg. Delivery Time
+ - Top Products by Sales
+ - Sales Trends by Month
+ - Customer Spending Patterns
 
 # 🧠 Skills Practiced
 - Power Query Editor
