@@ -22,9 +22,9 @@ Sales Trends by Month
 Customer Spending Patterns
 
 # 🧠 Skills Practiced
-Power Query Editor
-Data Modeling (Relationships)
-Pivot Tables & Pivot Charts
-DAX functions in Power Pivot
-Dashboard Design
-Correlation Analysis
+Power Query Editor,
+Data Modeling (Relationships),
+Pivot Tables & Pivot Charts,
+DAX functions in Power Pivot,
+Dashboard Design,
+Correlation Analysis,
